@@ -151,7 +151,7 @@
 - [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web 
 - [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo 
 - [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio 
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plat - ormas de codificação online 
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online 
 - [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos 
